@@ -138,3 +138,5 @@ Session.vim
 .netrwhist
 #*~ ## Already defined above
 
+bower_components/
+node_modules/

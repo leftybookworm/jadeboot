@@ -4,9 +4,9 @@ import java.util.Map;
 
 public class Thing {
 
-    String id;
-    String name;
-    Map<String, Object> config;
+    private String id;
+    private String name;
+    private Map<String, Object> config;
 
     public String getId() {
         return id;
